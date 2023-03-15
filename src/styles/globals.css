@@ -1,0 +1,14 @@
+@import "output/dark.css";
+@import "output/light.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* I'll learn how to set the path right once I find out how to import SVG icons*/
+
+  body {
+    @apply bg-[#E0E5FF] bg-[url('../img/hero-blobs.svg')] bg-contain bg-fixed bg-right-bottom bg-no-repeat dark:bg-[#000214];
+  }
+}

@@ -1,0 +1,34 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>.Ellipse_3_101 {
+	animation: 2s linear 0s 1 normal forwards running Ellipse_3_101;
+		transform: translateX(315px) translateY(365px);
+}
+@keyframes Ellipse_3_101 {
+	0% {
+		transform: translateX(315px) translateY(365px);
+	}
+	100% {
+		transform: translateX(470.5px) translateY(552.5px);
+	}
+}.Ellipse_4_319 {
+	animation: 2s linear 0s 1 normal forwards running Ellipse_4_319;
+		transform: translateX(435.38px) translateY(259.38px);
+}
+@keyframes Ellipse_4_319 {
+	0% {
+		transform: translateX(435.38px) translateY(259.38px);
+	}
+	100% {
+		transform: translateX(373.38px) translateY(259.38px);
+	}
+	
+}
+</style>
+<g clip-path="url(#clip_0_933)" width="390" height="844" data-name="bg-blob">
+	<ellipse fill="#466DF4" data-name="Ellipse 3" class="Ellipse_3_101" rx="155.5" ry="155.5"/>
+	<ellipse rx="47" ry="94" fill="#466DF4" data-name="Ellipse 5" transform="translate(291 506)"/>
+	<ellipse fill="#466DF4" data-name="Ellipse 4" class="Ellipse_4_319" rx="91.38" ry="91.38"/>
+</g>
+<defs><clipPath id="clip_0_933"><rect width="390" height="844"/></clipPath>
+</defs>
+</svg>

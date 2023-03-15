@@ -1,0 +1,69 @@
+.light {
+  --semantic-fg-default: #080c1f;
+  --semantic-fg-muted: #31406f;
+  --semantic-fg-subtle: #63749b;
+  --semantic-fg-on-accent: #ffffff;
+  --semantic-fg-on-disabled: #63749b;
+  --semantic-fg-disabled: #b3c3de;
+  --semantic-fg-accent: linear-gradient(90deg, #3e47dd 0%, #262a98 100%);
+  --semantic-bg-surface: #ffffff;
+  --semantic-bg-muted: #b3c3de;
+  --semantic-bg-subtle: #edf1f8;
+  --semantic-bg-canvas: #f5f7fb;
+  --semantic-primary-default: linear-gradient(90deg, #3e47dd 0%, #262a98 100%);
+  --semantic-primary-muted: #3e47dd;
+  --semantic-primary-darken: #3e27c4;
+  --semantic-primary-subtle: #b3c3de;
+  --semantic-secondary-default: linear-gradient(
+    90deg,
+    #3e47dd 0%,
+    #262a98 100%
+  );
+  --semantic-secondary-muted: #3e47dd;
+  --semantic-secondary-darken: #3e27c4;
+  --semantic-secondary-subtle: #8e9fc3;
+  --semantic-color-actions-primary-default-background-color: linear-gradient(
+    90deg,
+    #3e47dd 0%,
+    #262a98 100%
+  );
+  --semantic-color-actions-primary-default-text-color: #ffffff;
+  --semantic-color-actions-primary-default-border-color: #00000000;
+  --semantic-color-actions-primary-default-icon-color: #ffffff;
+  --semantic-color-actions-primary-hover-background-color: #3e47dd;
+  --semantic-color-actions-primary-hover-text-color: #ffffff;
+  --semantic-color-actions-primary-hover-border-color: #00000000;
+  --semantic-color-actions-primary-hover-icon-color: #ffffff;
+  --semantic-color-actions-primary-active-background-color: #3e27c4;
+  --semantic-color-actions-primary-active-text-color: #ffffff;
+  --semantic-color-actions-primary-active-border-color: #00000000;
+  --semantic-color-actions-primary-active-icon-color: #ffffff;
+  --semantic-color-actions-primary-focused-background-color: #3e47dd;
+  --semantic-color-actions-primary-focused-text-color: #ffffff;
+  --semantic-color-actions-primary-focused-border-color: #00000000;
+  --semantic-color-actions-primary-focused-icon-color: #ffffff;
+  --semantic-color-actions-primary-disabled-background-color: #b3c3de;
+  --semantic-color-actions-primary-disabled-text-color: #ffffff;
+  --semantic-color-actions-primary-disabled-border-color: #00000000;
+  --semantic-color-actions-primary-disabled-icon-color: #ffffff;
+  --semantic-color-actions-secondary-default-background-color: #ffffff;
+  --semantic-color-actions-secondary-default-text-color: #3e47dd;
+  --semantic-color-actions-secondary-default-border-color: #3e47dd;
+  --semantic-color-actions-secondary-default-icon-color: #3e47dd;
+  --semantic-color-actions-secondary-hover-background-color: #ebedfe;
+  --semantic-color-actions-secondary-hover-text-color: #3e27c4;
+  --semantic-color-actions-secondary-hover-border-color: #3e27c4;
+  --semantic-color-actions-secondary-hover-icon-color: #3e27c4;
+  --semantic-color-actions-secondary-active-background-color: #d8dbfd;
+  --semantic-color-actions-secondary-active-text-color: #3e27c4;
+  --semantic-color-actions-secondary-active-border-color: #3e27c4;
+  --semantic-color-actions-secondary-active-icon-color: #3e27c4;
+  --semantic-color-actions-secondary-focused-background-color: #d8dbfd;
+  --semantic-color-actions-secondary-focused-text-color: #3e47dd;
+  --semantic-color-actions-secondary-focused-border-color: #3e47dd;
+  --semantic-color-actions-secondary-focused-icon-color: #3e47dd;
+  --semantic-color-actions-secondary-disabled-background-color: #ffffff;
+  --semantic-color-actions-secondary-disabled-text-color: #8e9fc3;
+  --semantic-color-actions-secondary-disabled-border-color: #b3c3de;
+  --semantic-color-actions-secondary-disabled-icon-color: #8e9fc3;
+}
